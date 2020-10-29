@@ -8,7 +8,6 @@ Date: 10/28/2020
 
 ---
 
-[toc]
 
 # 1. Data source
 
@@ -21,9 +20,9 @@ Data source: <a href="https://xenabrowser.net/datapages/" _target="blank" > UCSC
 
 ## 2.  Quality control 
 
-<a href="" _target="blank"> Code</a>
+<a href="https://github.com/cmutd/TCGA_methylation_analysis/blob/main/code/step2_qc_filter.R" _target="blank"> Code</a>
 
-![qc_figures](C:\Users\mchen11\Desktop\methylations\TCGA_UCS\figure\qc_figures.png)
+
 
 
 
