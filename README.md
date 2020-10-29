@@ -21,7 +21,7 @@ Data source: <a href="https://xenabrowser.net/datapages/" _target="blank" > UCSC
 ## 2.  Quality control 
 
 <a href="https://github.com/cmutd/TCGA_methylation_analysis/blob/main/code/step2_qc_filter.R" _target="blank"> Code</a>
-https://github.com/cmutd/TCGA_methylation_analysis/blob/main/figure/qc_figures.png
+1[](https://github.com/cmutd/TCGA_methylation_analysis/blob/main/figure/qc_figures.png)
 
 
 
