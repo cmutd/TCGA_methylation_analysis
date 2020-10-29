@@ -21,21 +21,22 @@ Data source: <a href="https://xenabrowser.net/datapages/" _target="blank" > UCSC
 ## 2.  Quality control 
 
 <a href="https://github.com/cmutd/TCGA_methylation_analysis/blob/main/code/step2_qc_filter.R" _target="blank"> Code</a>
+
 ![](https://github.com/cmutd/TCGA_methylation_analysis/blob/main/figure/qc_figures.png)
 
 
 
 ## 3. Differentially methylated Probe analysis
 
-<a href="" _target="blank"> Code</a>
+<a href="https://github.com/cmutd/TCGA_methylation_analysis/blob/main/code/step3_DMP.R" _target="blank"> Code</a>
+
 
 
 
 ## 4a. Downstream analysis - heatmap plot 
 
-<a href="" _target="blank"> Code</a>
-
-
+<a href="https://github.com/cmutd/TCGA_methylation_analysis/blob/main/code/step4a_draw_dfHeatmap.R" _target="blank"> Code</a>
+![](https://github.com/cmutd/TCGA_methylation_analysis/blob/main/figure/DF_heatmap.png)
 
 
 
@@ -43,17 +44,18 @@ Data source: <a href="https://xenabrowser.net/datapages/" _target="blank" > UCSC
 
 ## 4b. Downstream anlysis - GO analysis
 
-<a href="" _target="blank"> Code </a>
+<a href="https://github.com/cmutd/TCGA_methylation_analysis/blob/main/code/step4b_GO_analysis.R" _target="blank" _target="blank"> Code </a>
 
-![DownGene_GOGraph](C:\Users\mchen11\Desktop\TCGA_methylation\figure\DownGene_GOGraph.png)![UPGene_GOGraph](C:\Users\mchen11\Desktop\TCGA_methylation\figure\UPGene_GOGraph.png)
+![](https://github.com/cmutd/TCGA_methylation_analysis/blob/main/figure/UPGene_GOGraph.png)
+![](https://github.com/cmutd/TCGA_methylation_analysis/blob/main/figure/DownGene_GOGraph.png)
 
 
 
 ## 4c. Downstream anlysis - Volcano Plot 
 
-<a href="" _target="blank"> Code </a>
+<a href="https://github.com/cmutd/TCGA_methylation_analysis/blob/main/code/step4c_methylation_plot.R"> Code </a>
 
-![step4c_Volcano_plot](C:\Users\mchen11\Desktop\TCGA_methylation\figure\step4c_Volcano_plot.png)
+![](https://github.com/cmutd/TCGA_methylation_analysis/blob/main/figure/step4c_Volcano_plot.png)
 
 
 
